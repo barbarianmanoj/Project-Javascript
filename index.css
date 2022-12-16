@@ -1,0 +1,28 @@
+
+body {
+    background-color: rgb(2, 13, 34);
+    width:auto;
+    height: 100%;
+    }
+.loginForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(145, 146, 144);
+    font-family: sans-serif;
+    margin: 200px 400px 0 400px;
+    border-radius: 500px;
+    }
+BUTTON {
+    border-radius: 200PX;
+    background-color: rgb(146, 45, 190);
+    font-weight: bold;
+    color: white;
+}
+h1{
+    text-shadow: 200px;
+}
+
+.text-cont {
+    margin-bottom: 10px;
+}
